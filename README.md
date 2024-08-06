@@ -1,4 +1,4 @@
-# My Go Application with New Relic Monitoring
+# Go Application with New Relic Monitoring
 
 This repository contains a Go application integrated with New Relic for performance monitoring and observability.
 
