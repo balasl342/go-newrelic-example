@@ -23,8 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/balasl342/newrelic.git
     ```
 
 2. **Install dependencies**:
@@ -52,16 +51,16 @@ Before you begin, ensure you have met the following requirements:
 
 ## Running the Application
 
-    To run the application, use the following command:
+- To run the application, use the following command:
 
     ```bash
     go run main.go
 
 ## Viewing New Relic Data
 
-    To view the data collected by New Relic:
+- To view the data collected by New Relic:
 
-    Log in to your New Relic account.
-    Navigate to the APM section.
-    Select your application from the list.
-    Explore the various dashboards and metrics to monitor your application's performance.
+    1. Log in to your New Relic account.
+    2. Navigate to the APM section.
+    3. Select your application from the list.
+    4. Explore the various dashboards and metrics to monitor your application's performance.
