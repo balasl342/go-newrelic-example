@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/balasl342/newrelic.git
+    git clone https://github.com/balasl342/go-newrelic-example.git
     ```
 
 2. **Install dependencies**:
@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 3. **Install the New Relic Go agent**:
 
     ```bash
-    go get github.com/newrelic/go-agent/v3/newrelic
+    go get github.com/go-newrelic-example/go-agent/v3/newrelic
     ```
 
 ## Configuration
