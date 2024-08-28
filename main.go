@@ -3,9 +3,10 @@ package main
 import (
 	"fmt"
 	"net/http"
-	"relicapp/database"
-	"relicapp/handlers"
-	"relicapp/middleware"
+
+	"github.com/balasl342/go-newrelic-example/database"
+	"github.com/balasl342/go-newrelic-example/handlers"
+	"github.com/balasl342/go-newrelic-example/middleware"
 )
 
 func main() {
@@ -37,7 +38,7 @@ func main() {
 // 	"fmt"
 // 	"net/http"
 
-// 	"github.com/newrelic/go-agent/v3/newrelic"
+// 	"github.com/go-newrelic-example/go-agent/v3/newrelic"
 // )
 
 // func main() {

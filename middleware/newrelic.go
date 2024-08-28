@@ -2,7 +2,8 @@ package middleware
 
 import (
 	"net/http"
-	"relicapp/config"
+
+	"github.com/balasl342/go-newrelic-example/config"
 
 	"github.com/newrelic/go-agent/v3/newrelic"
 )

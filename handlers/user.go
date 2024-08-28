@@ -3,7 +3,8 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	"relicapp/database"
+
+	"github.com/balasl342/go-newrelic-example/database"
 
 	"github.com/gorilla/mux"
 	"github.com/newrelic/go-agent/v3/newrelic"

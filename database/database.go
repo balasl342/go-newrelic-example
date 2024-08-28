@@ -2,7 +2,8 @@ package database
 
 import (
 	"fmt"
-	"relicapp/config"
+
+	"github.com/balasl342/go-newrelic-example/config"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

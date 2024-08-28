@@ -1,4 +1,4 @@
-module relicapp
+module github.com/balasl342/go-newrelic-example
 
 go 1.22.1
 
